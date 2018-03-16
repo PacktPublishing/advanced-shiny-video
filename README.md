@@ -26,6 +26,7 @@ To fully benefit from the coverage included in this course, you will need:<br/><
 <li>Basic Shiny skills 
 <li>Basic JavaScript knowledge</ul>
 ### Technical Requirements
+
 This course has the following software requirements:<br/><ul>
 <li>R studio
 <li>System capabale of running R studio</ul>
